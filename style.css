@@ -90,10 +90,10 @@ body {
 
 /* Basic styles for the post */
 .post {
-  margin-bottom: 20px;
+  margin-bottom: 50px; /* otazka 4 */
   padding: 20px;
-  background-color: rgb(128, 128, 128);
-  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(128, 128, 128); /* otazka 1 */
+  border: 5px solid rgb(0, 0, 0); /* Otazka 2 a otazka 3 */
 }
 
 /* Styles for the post heading */
