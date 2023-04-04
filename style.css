@@ -92,7 +92,7 @@ body {
 .post {
   margin-bottom: 20px;
   padding: 20px;
-  background-color: #fff;
+  background-color: rgb(128, 128, 128);
   border: 1px solid #ccc;
 }
 
