@@ -45,8 +45,8 @@ body {
 
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: rgb(255, 0, 0); /* otazka 6 */
+  color: rgb(255, 255, 255); /* otazka 6 */
 }
 
 /* Active/current link */
