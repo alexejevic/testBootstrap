@@ -83,17 +83,17 @@ body {
 
 /* Center the text */
 .footer p {
-  text-align: center;
+  text-align: right; /* otazka 5*/
   font-size: 14px;
   color: #d8d8d8;
 }
 
 /* Basic styles for the post */
 .post {
-  margin-bottom: 50px; /* otazka 4 */
+  margin-bottom: 100px; /* otazka 4 */
   padding: 20px;
   background-color: rgb(128, 128, 128); /* otazka 1 */
-  border: 5px solid rgb(0, 0, 0); /* Otazka 2 a otazka 3 */
+  border: 5px solid rgb(0, 0, 0); /* otazka 2 a otazka 3 */
 }
 
 /* Styles for the post heading */
